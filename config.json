@@ -1,5 +1,5 @@
 {
-	"ip":"YOUR_ATERNOS_SERVER_IP",
-	"port": "YOUR_ATERNOS_SERVER_PORT",
-	"name": "BOT_NAME"
+	"ip":"megax360.aternos.me",
+	"port": "megax360.aternos.me:19988",
+	"name": "botardo"
 }
